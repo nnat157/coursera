@@ -1,2 +1,2 @@
 # coursera
- my coursera assignments
+HTML, CSS, JS course - End of module 2 assignment.
